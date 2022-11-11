@@ -1,0 +1,32 @@
+.classM1{
+    background-image: url(recursos/fondo2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+.classM2{
+    background-image: url(recursos/fondo1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+.classM3{
+    background-image: url(recursos/fondo3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+.logoNav{
+    height: 60px;
+    width: 100px;
+}
+.colorNav{
+    background-image: radial-gradient(circle at 118.3% 31.7%, #ff99ff 0, #b779ff 25%, #5353f2 50%, #002ea7 75%, #001067 100%);
+}
+.letra{
+    color: white;
+    -webkit-text-stroke: 1px black;
+}
